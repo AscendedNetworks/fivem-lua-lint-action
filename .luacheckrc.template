@@ -76,6 +76,8 @@ stds.cfx_sv = {
         "GetPlayerTokens",
         "PerformHttpRequest",
         "CreateVehicle",
+        "RconPrint",
+        "RconLog",
         %%SERVER_GLOBALS%%
     }
 }
