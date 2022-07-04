@@ -78,6 +78,7 @@ stds.cfx_sv = {
         "CreateVehicle",
         "RconPrint",
         "RconLog",
+        "GetPlayerEP",
         %%SERVER_GLOBALS%%
     }
 }
