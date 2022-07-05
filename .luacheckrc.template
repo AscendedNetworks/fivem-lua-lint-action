@@ -214,7 +214,10 @@ stds.qblocales = {
 
 stds.qbgarages = {
     read_globals = {
-        "Garages"
+        "Garages",
+        "GangGarages",
+        "JobGarages",
+        "HouseGarages"
     }
 }
 
