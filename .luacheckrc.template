@@ -275,4 +275,5 @@ exclude_files = {
     "**/PolyZone/*.lua",
     "**/PolyZone/*.lua",
     "**/PolyZone/**/*.lua",
+    "**/bob74_ipl/lib/common.lua"
 }
