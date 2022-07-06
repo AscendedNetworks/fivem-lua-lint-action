@@ -272,7 +272,7 @@ exclude_files = {
     "**/menuv/*.lua",
     "**/menuv/**/*.lua",
     "**/mapmanager/mapmanager_server.lua",
-    "**/PolyZone/*.lua"
+    "**/PolyZone/*.lua",
     "**/PolyZone/*.lua",
     "**/PolyZone/**/*.lua",
 }
