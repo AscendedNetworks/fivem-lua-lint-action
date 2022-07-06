@@ -268,3 +268,7 @@ max_cyclomatic_complexity = 200
 color = true
 ignore = {'611', '111', '614'}
 std = "max+cfx+cfx_sv+cfx_cl_deprecated+cfx_cl%%EXTRA%%"
+exclude_files = {
+    "**/menuv/*.lua",
+    "**/menuv/**/*.lua",
+}
