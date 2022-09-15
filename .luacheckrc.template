@@ -108,6 +108,7 @@ stds.cfx_cl = {
         "SendNUIMessage",
         "GlobalState",
         "spawnpoint",
+        "vehicle_generator",
         %%CLIENT_GLOBALS%%
     }
 }
